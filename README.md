@@ -7,4 +7,4 @@ The problem with this process is that it is very long, and you wouldn't want to 
 *draw_and_recognise.py* opens Tk in an interface where you can draw the digit and it recognises it using the net saved. This has flaws though, as you need to use the same size and alignment as the MNIST database, and I couldn't quite make the same line thickness.
 
 # REQUIREMENTS:
-This program needs the non built-in libraries *keyboard* and *jsonpickel*.
+This program needs the non built-in libraries *keyboard* and *jsonpickel*. Also, all programs must be in the same folder.
