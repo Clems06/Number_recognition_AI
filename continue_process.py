@@ -1,4 +1,4 @@
-from new_attempt import *
+from number_recognition import *
 
 with open("./save_net.json") as f:
     print("Starting importing net...")
